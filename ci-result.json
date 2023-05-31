@@ -1,0 +1,82 @@
+[
+  {
+    "path": "/",
+    "score": 0.93
+  },
+  {
+    "path": "/about",
+    "score": 0.97
+  },
+  {
+    "path": "/cart",
+    "score": 0.95
+  },
+  {
+    "path": "/contact",
+    "score": 0.97
+  },
+  {
+    "path": "/contactame",
+    "score": 0.95
+  },
+  {
+    "path": "/espanol",
+    "score": 0.95
+  },
+  {
+    "path": "/home",
+    "score": 0.91
+  },
+  {
+    "path": "/insurance",
+    "score": 0.96
+  },
+  {
+    "path": "/meet-becca",
+    "score": 0.96
+  },
+  {
+    "path": "/new-page",
+    "score": 0.96
+  },
+  {
+    "path": "/news",
+    "score": 0.94
+  },
+  {
+    "path": "/news/get-out-there-n9t2h-9j2c9",
+    "score": 0.98
+  },
+  {
+    "path": "/news/new-hope-in-old-appalachia-lly88-cwj6h",
+    "score": 0.98
+  },
+  {
+    "path": "/news/why-deserts-matter-too-maymt-2dbdy",
+    "score": 0.98
+  },
+  {
+    "path": "/privacidad",
+    "score": 0.96
+  },
+  {
+    "path": "/privacy",
+    "score": 0.97
+  },
+  {
+    "path": "/profesionales",
+    "score": 0.96
+  },
+  {
+    "path": "/quienes-somos",
+    "score": 0.97
+  },
+  {
+    "path": "/services",
+    "score": 0.95
+  },
+  {
+    "path": "/services-3",
+    "score": 0.95
+  }
+]
